@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iF6M
-- 👀 I’m interested in Web Development , Coding !
+- 👀 I’m interested in Web Development !
 - ☄️ I’m currently learning Software Engineering ..
 - 📫 How to reach me e-mail: f.almusawi37@gmail.com
 
