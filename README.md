@@ -14,8 +14,7 @@ Here are some of the programming languages I am proficient in:
 | Language      | Proficiency |
 |---------------|-------------|
 | **HTML/CSS**  | ![HTML](https://progress-bar.dev/100/?title=Expert&color=brightgreen)  |
-| **JavaScript**| ![JavaScript](https://progress-bar.dev/100/?title=Expert&color=brightgreen)  |
-| **PHP**       | ![PHP](https://progress-bar.dev/60/?title=Intermediate&color=yellow)   |
+| **PHP**       | ![PHP](https://progress-bar.dev/70/?title=Intermediate&color=yellow)   |
 | **SQL**       | ![SQL](https://progress-bar.dev/60/?title=Intermediate&color=yellow)   |
 | **Python**    | ![Python](https://progress-bar.dev/30/?title=Basics&color=red)            |
 | **C++**       | ![C++](https://progress-bar.dev/30/?title=Basics&color=red)            |
